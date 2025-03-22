@@ -56,7 +56,7 @@ We should clearly notify all internal personnel responsible for incident managem
 ### Security Awareness Training
 
 - Conducting interactive phishing-awareness training and simulations to check their effectiveness.
-- Educating employees on best practices for creating, managing, and protecting strong passwords through interactive sessions.
+- Training employees on best practices for creating, managing, and protecting strong passwords through interactive sessions.
 - Educating employees on reporting any suspicious activity or security incidents.
 - Conducting semiannual cybersecurity workshops and quizzes to stay updated on various threat vectors and delivery methods.
 
@@ -65,6 +65,6 @@ We should clearly notify all internal personnel responsible for incident managem
 - Deploying real-time URL scanning and email filtering solutions to detect and block suspicious emails.
 
 ### Policy and Procedural Updates
-- Reviewing and updating incident response plans quarterly.
+- Reviewing and updating incident response plans on a quarterly basis.
 - Clearly documenting and reporting procedures for suspicious emails and other cybersecurity incidents.
 - Defining clear roles and responsibilities for handling and escalating incidents within a properly established incident response team.

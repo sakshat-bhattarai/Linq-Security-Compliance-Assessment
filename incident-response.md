@@ -32,20 +32,20 @@ All internal personnel responsible for incident management, investigation, and m
 - **Notify CISA (for government-related incidents)**
 - **Inform third-party vendors or external security resources (if required for investigation)**
 
-### Step 3 Investigation and Analysis
+### Step 3: Investigation and Analysis
 
 - **Email Analysis:** Check the email domain, headers, content, and embedded URLs to identify phishing techniques used by the scammer.
 - **Account Logs Review:** Review the account logs of the compromised account to find suspicious login attempts.
 - **Network and System Logs:** Investigate the organization's network and firewall logs (including IPS/IDS) to trace unauthorized activities.
 - **Malware Analysis:** Examine the affected device to detect any traces of malware.
 
-### Step 4 Eradication and Recovery
+### Step 4: Eradication and Recovery
 
 - Restore the affected device to a known secure baseline.
 - Reinstate the employee’s account with Multi-factor Authentication (MFA).
 - Continuously monitor the employee’s accounts and devices for abnormalities.
 
-### Step 5 Post-Incident Activities
+### Step 5: Post-Incident Activities
 
 - Document all actions taken during the incident response, including timelines and gathered information.
 - Conduct a blameless post-incident meeting with all stakeholders to identify lessons learned and areas for improvement.

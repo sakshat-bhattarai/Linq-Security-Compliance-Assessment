@@ -1,4 +1,4 @@
-# Why Frequent Password Changes is an outdated security practice?
+# Why frequent Password Changes is an outdated security practice?
 
 I believe that frequent password changes are one of the outdated practices in cybersecurity. It’s time to stop treating outdated password myths as best practices. This approach could have made sense decades ago, it's outdated today and even counterproductive. According to the latest NIST SP 800-63B-4 guidelines (August 2024) it suggests people to change passwords when there is evidence or a sign of compromise not on a fixed schedule. 
 

@@ -3,7 +3,7 @@
 ## Incident Overview
 An employee reports a phishing email that appeared to be from our CEO. They clicked a link, entered their password, and realized hours later that it was a scam.
 
-## Step-by-Step Actions to Investigate the Incident
+## Step-by-Step Actions to Investigate and Remediate the Phishing Incident
 
 ### Step 1: Immediate Isolation
 

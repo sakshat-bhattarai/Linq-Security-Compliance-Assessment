@@ -45,7 +45,7 @@ We should clearly notify all internal personnel responsible for incident managem
 - Restoring the affected employee’s account with Multi-factor Authentication (MFA).
 - Properly monitoring the affected employee’s accounts and devices for identifying abnormalities.
 
-### Post-Incident Activities
+###  Step 5: Post-Incident Activities
 
 - Documenting everything done during the incident response, including timelines, actions taken, and gathered information.
 - Conducting a blameless post-incident meeting with all stakeholders to identify lessons learned and improvement areas to prevent future incidents.

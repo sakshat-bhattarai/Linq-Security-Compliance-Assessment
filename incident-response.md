@@ -1,26 +1,26 @@
 # Incident Response Plan for Phishing Scenario
 
 ## Incident Overview
-An employee reports a phishing email that looked like it was from our CEO. They clicked a link, entered their password, and realized hours later that it was a scam.
+An employee reports a phishing email that appeared to be from our CEO. They clicked a link, entered their password, and realized hours later that it was a scam.
 
 ## Step-by-Step Actions to Investigate the Incident
 
 ### Step 1: Immediate Isolation
 
 - **Isolate User Account:**  
-Our first step should be identifying and resetting the compromised employee's account password to cut off access from the scammer.
+The first step should be identifying and resetting the compromised employee's account password to cut off access from the scammer.
 
 - **Terminate Active Sessions:**  
-Even though we've isolated the device from the scammer, there might be active sessions open under the respective employee's account. Our next step is identifying and closing all active sessions (both on-premises and cloud platforms) associated with the employee.
+Although the device has been isolated from the scammer, there might be active sessions still open under the employee's account. The next step is identifying and closing all active sessions (on both on-premises and cloud platforms) associated with the employee.
 
 - **Isolate Device:**  
-At this point, the scammer might have already infected the employee's device with malware. To prevent further damage, we should isolate the device from the network as soon as possible.
+At this point, the scammer may have already infected the employee's device with malware. To prevent further damage, the device should be isolated from the network as soon as possible.
 
 ### Step 2: Notification
 
 #### Internal Notifications:
 
-We should clearly notify all internal personnel responsible for incident management, investigation, and mitigation. Properly notifying internal personnel can promptly avoid confusion and service delays, ensuring coordinated action during incident response. The internal personnel to notify should include:
+All internal personnel responsible for incident management, investigation, and mitigation should be promptly notified. Proper notification can help avoid confusion and service delays, ensuring coordinated action during the incident response. The internal personnel to notify include:
 
 - **Incident Response Team**
 - **IT Department**
@@ -29,42 +29,42 @@ We should clearly notify all internal personnel responsible for incident managem
 - **Legal Department**
 
 #### External Notifications:
-- **Notifying CISA (for government-related incidents)**
-- **Informing third-party vendors or external security resources (if required for investigation)**
+- **Notify CISA (for government-related incidents)**
+- **Inform third-party vendors or external security resources (if required for investigation)**
 
-### Step 3: Investigation and Analysis
+### Investigation and Analysis
 
-- **Email Analysis:** Properly checking the email domain, email headers, content, and embedded URLs to identify phishing techniques used by the scammer.
-- **Account Logs Review:** Reviewing the account logs of the compromised account to find suspicious login attempts.
-- **Network and System Logs:** Promptly investigating the organization's network and firewall logs (including IPS/IDS) to trace unauthorized activities.
-- **Malware Analysis:** Examining the affected device to find traces of malware.
+- **Email Analysis:** Check the email domain, headers, content, and embedded URLs to identify phishing techniques used by the scammer.
+- **Account Logs Review:** Review the account logs of the compromised account to find suspicious login attempts.
+- **Network and System Logs:** Investigate the organization's network and firewall logs (including IPS/IDS) to trace unauthorized activities.
+- **Malware Analysis:** Examine the affected device to detect any traces of malware.
 
-###  Step 4: Eradication and Recovery
+### Eradication and Recovery
 
-- Restoring the affected device to a known secure baseline.
-- Restoring the affected employee’s account with Multi-factor Authentication (MFA).
-- Properly monitoring the affected employee’s accounts and devices for identifying abnormalities.
+- Restore the affected device to a known secure baseline.
+- Reinstate the employee’s account with Multi-factor Authentication (MFA).
+- Continuously monitor the employee’s accounts and devices for abnormalities.
 
-###  Step 5: Post-Incident Activities
+### Post-Incident Activities
 
-- Documenting everything done during the incident response, including timelines, actions taken, and gathered information.
-- Conducting a blameless post-incident meeting with all stakeholders to identify lessons learned and improvement areas to prevent future incidents.
-- Updating the incident response plan and cybersecurity training based on findings from the post-incident meeting to handle similar future situations.
+- Document all actions taken during the incident response, including timelines and gathered information.
+- Conduct a blameless post-incident meeting with all stakeholders to identify lessons learned and areas for improvement.
+- Update the incident response plan and cybersecurity training based on findings from the post-incident meeting to better handle similar future situations.
 
 ## Long-Term Improvements
 
 ### Security Awareness Training
 
-- Conducting interactive phishing-awareness training and simulations to check their effectiveness.
-- Training employees on best practices for creating, managing, and protecting strong passwords through interactive sessions.
-- Educating employees on reporting any suspicious activity or security incidents.
-- Conducting semiannual cybersecurity workshops and quizzes to stay updated on various threat vectors and delivery methods.
+- Conduct interactive phishing-awareness training and simulations to assess effectiveness.
+- Train employees on best practices for creating, managing, and protecting strong passwords through interactive sessions.
+- Train employees on how to report suspicious activity or security incidents.
+- Hold semiannual cybersecurity workshops and quizzes to stay updated on various threat vectors and delivery methods.
 
 ### Technical Enhancements
-- Enforcing Multi-factor Authentication (MFA) across all critical accounts and services.
-- Deploying real-time URL scanning and email filtering solutions to detect and block suspicious emails.
+- Enforce Multi-factor Authentication (MFA) across all critical accounts and services.
+- Deploy real-time URL scanning and email filtering solutions to detect and block suspicious emails.
 
 ### Policy and Procedural Updates
-- Reviewing and updating incident response plans on a quarterly basis.
-- Clearly documenting and reporting procedures for suspicious emails and other cybersecurity incidents.
-- Defining clear roles and responsibilities for handling and escalating incidents within a properly established incident response team.
+- Review and update incident response plans quarterly.
+- Clearly document and report procedures for handling suspicious emails and cybersecurity incidents.
+- Define clear roles and responsibilities for managing and escalating incidents within a well-established incident response team.

@@ -18,7 +18,7 @@ Even though we isolated device from the scammer, there might be some of the sess
 
 ### Step 2: Notification
 
-####Internal Notifications:
+#### Internal Notifications:
 
 We should clearly notify all internal personal who are responsible for incident management, investigation and mitigation. If we properly notify the internal personnel, we can promptly avoid confusion and delay of service during incident response time to perform coordinated action during the incident. The internal personals who we should notify should include:
 

@@ -32,14 +32,14 @@ We should clearly notify all internal personnel responsible for incident managem
 - **Notifying CISA (for government-related incidents)**
 - **Informing third-party vendors or external security resources (if required for investigation)**
 
-### Investigation and Analysis
+### Step 3: Investigation and Analysis
 
 - **Email Analysis:** Properly checking the email domain, email headers, content, and embedded URLs to identify phishing techniques used by the scammer.
 - **Account Logs Review:** Reviewing the account logs of the compromised account to find suspicious login attempts.
 - **Network and System Logs:** Promptly investigating the organization's network and firewall logs (including IPS/IDS) to trace unauthorized activities.
 - **Malware Analysis:** Examining the affected device to find traces of malware.
 
-### Eradication and Recovery
+###  Step 4: Eradication and Recovery
 
 - Restoring the affected device to a known secure baseline.
 - Restoring the affected employee’s account with Multi-factor Authentication (MFA).

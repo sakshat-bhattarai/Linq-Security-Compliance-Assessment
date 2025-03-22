@@ -7,7 +7,7 @@ Forcing regular password resets often leads users to create weaker and more pred
 We should use of tools like password managers to significantly reduce human error for making password management highly secure and less frustrating. The chances of passwords being compromise are significantly reduced when proper we properly use security practices using password manager, using different credentials for multiple platforms, enabling multi-factor authentication (MFA) and as well as checking against breach databases for staying ahead and adding extra layer of protection.
 
 ### Reference
-[NIST SP 800-63B-4 Guidelines](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-63B-4.2pd.pdf)
+- [NIST SP 800-63B-4 Guidelines (PDF)](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-63B-4.2.pdf)  
+- [Sprinto: NIST Password Guidelines Explained](https://sprinto.com/blog/nist-password-guidelines/)
 
-[Sprinto](https://sprinto.com/blog/nist-password-guidelines/)
 

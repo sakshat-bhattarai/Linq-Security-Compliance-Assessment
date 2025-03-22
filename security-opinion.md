@@ -8,5 +8,6 @@ We should use of tools like password managers to significantly reduce human erro
 
 ### Reference
 [NIST SP 800-63B-4 Guidelines](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-63B-4.2pd.pdf)
+
 [Sprinto](https://sprinto.com/blog/nist-password-guidelines/)
 

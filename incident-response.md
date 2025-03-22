@@ -1,4 +1,4 @@
-# Incident Response Plan for Phishing Scenario
+# Incident Response Plan for Phishing Scenario 🛡️
 
 ## Incident Overview
 An employee reports a phishing email that appeared to be from our CEO. They clicked a link, entered their password, and realized hours later that it was a scam.

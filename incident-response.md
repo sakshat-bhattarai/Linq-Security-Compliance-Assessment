@@ -68,3 +68,9 @@ All internal personnel responsible for incident management, investigation, and m
 - Review and update incident response plans quarterly.
 - Clearly document and report procedures for handling suspicious emails and cybersecurity incidents.
 - Define clear roles and responsibilities for managing and escalating incidents within a well-established incident response team.
+
+
+### References
+- [CISA – Incident Response Resources](https://www.cisa.gov/incident-response)
+- [NIST SP 800-61 Revision 2 – Computer Security Incident Handling Guide](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf)
+

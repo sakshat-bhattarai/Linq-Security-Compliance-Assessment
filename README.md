@@ -2,7 +2,7 @@ This repository includes my responses to the tasks provided by Linq, focused on 
 
 ##  Deliverables
 
-### 1. 📂 `incident-response.md`(https://github.com/sakshat-bhattarai/Linq-Security-Compliance-Assessment/blob/main/incident-response.md)  
+### 1. 📂 [`incident-response.md`](https://github.com/sakshat-bhattarai/Linq-Security-Compliance-Assessment/blob/main/incident-response.md)  
 **Scenario:**  
 An employee received a phishing email impersonating the CEO, clicked a malicious link, and entered their password.  
 

@@ -7,9 +7,7 @@ This repository includes my responses to the tasks provided by Linq, focused on 
 An employee received a phishing email impersonating the CEO, clicked a malicious link, and entered their password.  
 
 **Response Includes:**  
-- A step-by-step incident response plan  
-- Stakeholder notifications (internal and external)  
-- Long-term recommendations to improve phishing resilience
+Response outlines a comprehensive incident response plan for handling a phishing attack, starting from immediate containment steps such as account password resets, session terminations, and device isolation. It then details internal and external notification procedures, a thorough investigation process, and recovery actions including system restoration and MFA enforcement. Finally, it emphasizes post-incident documentation, employee training, technical improvements, and policy updates to strengthen future resilience.
 
 ---
 

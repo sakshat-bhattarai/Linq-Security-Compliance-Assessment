@@ -4,7 +4,7 @@ It is very important to manage customer security questionnaires during the assem
 I have developed six key steps from intake and ownership assignment to response submission for handling the questionnaire. This framework not only enhances internal efficiency but also elevates the customer experience by improving transparency and reducing turnaround time.
 
 ### Step 1. Using Centralized Intake and Ticket Creating Mechanism  
-Routing all customer questionnaires to a shared email alias, such as security.questionnaire@linqapp.com and automating ticket tracking using tools like Airtable, Zendesk, etc to manage the process from intake to final delivery back to the customer.
+Routing all customer questionnaires to a shared email, such as security.questionnaire@linqapp.com and automating ticket tracking using tools like Airtable, Zendesk, etc to manage the process from intake to final delivery back to the customer.
 
 ### Step 2. Early-Stage Response  
 It is very important to determine the responsible personnel/Team for completing the questionnaire along with the SLAs on the central ticket tracking system based on complexity and customers needs.

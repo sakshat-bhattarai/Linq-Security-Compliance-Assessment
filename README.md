@@ -30,4 +30,4 @@ A strong opinion on password security and its best practices
 ## 📝 Notes
 
 - All deliverables are written in Markdown format for clarity and ease of review.
-- References and real-world examples have been included where applicable.
+- References are included where applicable.

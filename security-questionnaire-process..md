@@ -1,5 +1,8 @@
 # Security Questionnaire Handling Process
 
+It is very important to manage customer security questionnaires during the assement process by maintaining trust of the customers. This document outlines a structured process for handling incoming security questionnaires at Linq it is very necessary to maintain consistent responses to the customers by minimizing operational friction across teams.
+I have developed six key steps from intake and ownership assignment to response submission for handling the questionnaire. This framework not only enhances internal efficiency but also elevates the customer experience by improving transparency and reducing turnaround time.
+
 ### Step 1. Using Centralized Intake and Ticket Creating Mechanism  
 Routing all customer questionnaires to a shared email alias, such as security.questionnaire@linqapp.com and automating ticket tracking using tools like Airtable, Zendesk, etc to manage the process from intake to final delivery back to the customer.
 

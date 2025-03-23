@@ -35,3 +35,11 @@ Once the questionnaire is finalized, it should be returned to the customer in th
 
 ### Step 6. Post-Submission Improvements  
 Once questionnaire is submitted it’s very important to analyze and identify opportunities for further improvement. Linq can track common questions response time and which responses are most frequently reused or customized by using its analytics. This data can be used to continually update and refine Centralized Repository. In addition, deploying AI-powered chatbots such which are integrated into Trust Center can help tackle repetitive questions, allowing the team to focus on higher-value requests while still delivering top notch answers to the customers.
+
+
+## References
+
+- [OneTrust: Security Questionnaires Best Practices](https://www.onetrust.com/blog/security-questionnaires-best-practices/)
+- [Scytale: Best Practices for Answering Security Questionnaires](https://scytale.ai/resources/best-practices-for-answering-security-questionnaires/)
+- [Vanta: Steps of Questionnaire Process to Automate](https://www.vanta.com/resources/steps-of-questionnaire-process-to-automate)
+

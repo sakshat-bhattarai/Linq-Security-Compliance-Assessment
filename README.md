@@ -1,6 +1,6 @@
 This repository includes my responses to the tasks provided by Linq, focused on practical  business-aligned approaches to security and compliance challenges. 
 
-## 🚀 Deliverables
+##  Deliverables
 
 ### 1. 📂 `incident-response.md`  
 **Scenario:**  

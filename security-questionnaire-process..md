@@ -7,7 +7,7 @@ I have developed six key steps from intake and ownership assignment to response 
 Routing all customer questionnaires to a shared email alias, such as security.questionnaire@linqapp.com and automating ticket tracking using tools like Airtable, Zendesk, etc to manage the process from intake to final delivery back to the customer.
 
 ### Step 2. Early-Stage Response  
-Determining the responsible personnel/Team for completing the questionnaire and determine the SLAs on the central ticket tracking system based on complexity and customer urgency.
+It is very important to determine the responsible personnel/Team for completing the questionnaire along with the SLAs on the central ticket tracking system based on complexity and customers needs.
 
 **Who Should Be Involved:**  
 To ensure timely, accurate, and efficient responses to customer security questionnaires, the following teams should be involved:
@@ -16,16 +16,16 @@ To ensure timely, accurate, and efficient responses to customer security questio
 They should be the first point of contact for receiving the questionnaire and they should be responsible for maintaining communication between customers and the internal teams.
 
 - **Cybersecurity and Compliance Team**  
-Cybersecurity and Compliance teams should be the primary owner of the responses they should be responsible for filling up the questionnaire with high accuracy with alignment with security policies such as Data Protection and Privacy Policy, Physical Security Policy, Incident Response Policy, etc. and compliance frameworks (e.g., SOC 2, ISO 27001). They should be also responsible to maintain and update historical questionnaires and responses for references.
+Cybersecurity and Compliance teams should be the primary owner of the responses they should be responsible for filling up the questionnaire with high accuracy with alignment with security policies such as Data Protection and Privacy Policy, Physical Security Policy, Incident Response Policy, etc. and compliance frameworks (e.g., SOC 2, ISO 27001 series, GDPR). They should be also responsible to maintain and update historical questionnaires and responses for references.
 
 - **Engineering Team (if needed)**  
 The Engineering team should be involved in handling security questionnaires to provide accurate technical details about the system architecture, data flows and implementation of security controls.
 
 - **Legal Team (if needed)**  
-The Legal Team should review contractual and legal terms to ensure that privacy, data protection, and regulatory claims adhere to the legal obligations.
+The Legal Team should review contractual and legal terms to ensure that privacy, data protection and regulatory claims adhere to the legal obligations.
 
 ### Step 3. Centralized Repository and Evidence Gathering  
-Using the tools like **Vanta**, **Confluence**, **Notion**, **Google Drive** (as a lightweight alternative) to build and maintain a centralized, version-controlled repository for SOC 2 reports, security policies and all the security certifications. This repository should include commonly requested answers for industry-standard questionnaires such as CAIQ or SIG. It should also contain the document supporting evidence like MFA enforcement, encryption practices, and access logs.
+Using the tools like **Vanta**, **Confluence**, **Notion**, **Google Drive** (as a lightweight alternative) to build and maintain a centralized, version-controlled repository for SOC 2 reports, security policies and all the security certifications. This repository should include commonly requested answers for industry-standard questionnaires such as CAIQ, SIG or other format. It should also contain the document supporting evidence like MFA enforcement, encryption practices and access logs.
 
 **Notes:**  
 Automation platforms like Vanta, Drata, etc integrate with cloud systems to continuously monitor and collect evidence (e.g., MFA status, audit logs), auto-update compliance dashboards and generate reports on-demand. This not only speeds up the questionnaire response process but also ensures responses are current, complete and consistent reducing back-and-forth and saving valuable time for security and sales teams.

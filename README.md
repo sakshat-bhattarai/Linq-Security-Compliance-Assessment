@@ -11,7 +11,7 @@ It outlines a comprehensive incident response plan for handling a phishing attac
 
 ---
 
-### 2. 📂 `security-questionnaire-process.md`  
+### 2. 📂 [`security-questionnaire-process.md`](https://github.com/sakshat-bhattarai/Linq-Security-Compliance-Assessment/blob/main/security-questionnaire-process..md) 
 **Scenario:**  
 Linq regularly receives complex security and compliance questionnaires from enterprise customers.
 
@@ -21,7 +21,7 @@ It includes six-step process to manage customer security questionnaires efficien
 
 ---
 
-### 3. 📂 `security-opinion.md`  
+### 3. 📂 [`security-opinion.md`](https://github.com/sakshat-bhattarai/Linq-Security-Compliance-Assessment/blob/main/security-opinion.md)  
 **Topic:**  
 A strong opinion on password security and its best practices 
 
